@@ -11,10 +11,10 @@ For each patient in this analysis, the dataset captures the clonal diversity of 
 By resolving full bacterial chromosomes and complex mobile genetic elements (MGEs) with long reads, this study aims to determine whether invasive lineages emerge via a random sampling of the nasal population or through a selective bottleneck driven by specific hyper-virulent mutations or MGE acquisitions.
 
 
-## 🧬 Study Design & Clonal Architecture
+## Study Design & Clonal Architecture
 Because *S. aureus* nasal populations can exhibit high heterogeneity, individual patients may harbor multiple distinct Sequence Types (STs). This pipeline selectively groups and analyzes colonies sharing matching STs between the compartments to track subtle within-host microevolution.
 
-## 🛠️ Bioinformatics Pipeline & Tooling
+## Bioinformatics Pipeline & Tooling
 The pipeline is optimized for long-read bacterial population genomics, structured as follows:
 
 ### 1. Quality Control & Preprocessing
