@@ -43,16 +43,16 @@ The pipeline is optimized for long-read bacterial population genomics, structure
 * **Analysis:** Matrix visualization of convergent mutations across all 9 patients to locate recurrently mutated loci during tissue invasion.
 
 
-## 📈 Project Status & Milestones
+## Project Status & Milestones
 
-- [x] Study design and pipeline architecture finalized    --done
-- [x] Repository initialization and environment setup     --done
+- [x] Study design and pipeline architecture finalized    
+- [x] Repository initialization and environment setup     
 - [ ] Raw FASTQ data acquisition & MLST verification `[Ongoing]`
 - [ ] Quality Control & *De Novo* Assembly execution
 - [ ] Variant Calling & Structural Variant extraction
 - [ ] R-based downstream convergence analysis & mapping
 
-## 👥 Affiliation & Contact
+## Affiliation & Contact
 * **Institution:** Medical Research Council Unit The Gambia at the London School of Hygiene & Tropical Medicine (MRCG at LSHTM)
 * **Author:** [Sulayman Sowe]
 * **Email:** [ssulayman636@gmail.com]
